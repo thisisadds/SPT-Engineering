@@ -11,8 +11,8 @@
 	img.resize {
 		display: block;
 		margin: auto;
-		max-width:25%;
-		max-height:25%;
+		max-width:20%;
+		max-height:20%;
 		
 	}
 
@@ -173,7 +173,7 @@
 	}
 
 	@media screen and (max-width: 736px) {
-
+	
 		.container.\31 25\25 {
 			width: 100%;
 			max-width: 125%;
@@ -3113,7 +3113,7 @@
 	@media screen and (max-width: 1680px) {
 
 		/* Basic */
-
+		
 			body, input, select, textarea {
 				font-size: 14pt;
 			}
